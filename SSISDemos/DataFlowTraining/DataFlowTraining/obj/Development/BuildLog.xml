@@ -2,18 +2,23 @@
 <BuildLog xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <ProjectInfo>
     <Name>DataFlowTraining</Name>
-    <LastWriteTime>2020-02-05T17:22:22.7470083Z</LastWriteTime>
+    <LastWriteTime>2020-02-06T18:31:45.09863Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
     <ProjectBuildItemInfo>
       <Name>Package.dtsx</Name>
-      <LastWriteTime>2020-02-05T17:09:56.5920895Z</LastWriteTime>
+      <LastWriteTime>2020-02-06T17:57:44.4738233Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>Package1.dtsx</Name>
       <LastWriteTime>2020-02-05T17:19:29.9375141Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>01_ExportToFlatFileDemo.dtsx</Name>
+      <LastWriteTime>2020-02-06T18:31:43.0935968Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
